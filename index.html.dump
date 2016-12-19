@@ -54,7 +54,7 @@ var _hmt = _hmt || [];
 
 			<div class="col-xs-4 col-md-4">
 
-				<a href="2048.html" class="thumbnail">
+				<a href="/2048.html" class="thumbnail">
 
 					<img src="pic/1.jpg" alt="...">
 
