@@ -10,3 +10,7 @@
 .container {
 	margin-top: 40px;
 }
+
+.img5>img {
+	width: 100%;
+}
